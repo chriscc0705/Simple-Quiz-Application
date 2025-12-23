@@ -1,0 +1,52 @@
+[
+  {
+    "title": "1. What is Environmental Awareness?",
+    "content": "<b>Environmental awareness</b> means understanding the importance of the environment and recognizing the role humans play in protecting it. From clean air and water to biodiversity and natural resources, our survival depends on a healthy planet. This awareness encourages people to adopt more sustainable habits and take action to reduce environmental damage.",
+    "image": "image1.jpg"
+  },
+  {
+    "title": "2. Air Pollution",
+    "content": "Air pollution occurs when harmful substances like carbon monoxide, nitrogen oxides, and particulate matter are released into the air. These pollutants come from vehicles, factories, and burning fossil fuels. Long-term exposure can cause respiratory diseases and environmental degradation. Reducing emissions and using cleaner energy are key solutions.",
+    "image": "image2.jpg"
+  },
+  {
+    "title": "3. Water Pollution",
+    "content": "Water pollution is the contamination of rivers, lakes, oceans, and groundwater due to chemicals, plastics, waste, and oil spills. It threatens marine ecosystems, drinking water sources, and food chains. Preventing water pollution involves proper waste disposal, reducing plastic use, and supporting clean water initiatives.",
+    "image": "image3.jpg"
+  },
+  {
+    "title": "4. Climate Change",
+    "content": "Climate change refers to significant, long-term changes in the Earth’s climate. It is largely driven by increased greenhouse gas emissions from human activities like burning fossil fuels and deforestation. The consequences include rising temperatures, extreme weather events, melting ice caps, and sea level rise, impacting both humans and wildlife.",
+    "image": "image4.jpg"
+  },
+  {
+    "title": "5. Deforestation",
+    "content": "Deforestation is the large-scale removal of forests, often for agriculture, logging, or urban development. It leads to habitat loss, increased carbon dioxide in the atmosphere, and reduced biodiversity. Planting trees, supporting sustainable forestry, and reducing paper consumption can help combat deforestation.",
+    "image": "image5.jpg"
+  },
+  {
+    "title": "6. Waste Management",
+    "content": "Effective waste management reduces the impact of human waste on the environment. Landfills, incineration, and improper disposal pollute soil and water. Recycling, composting, and reducing single-use items help minimize waste and conserve natural resources. Everyone can play a role by sorting and disposing of waste responsibly.",
+    "image": "image6.jpg"
+  },
+  {
+    "title": "7. Energy Conservation",
+    "content": "Energy conservation means using less energy to reduce environmental impact. Turning off lights when not in use, using energy-efficient appliances, and insulating homes are simple ways to save energy. Conserving energy not only lowers electricity bills but also decreases greenhouse gas emissions.",
+    "image": "image7.jpg"
+  },
+  {
+    "title": "8. Renewable Energy",
+    "content": "Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, water, and geothermal heat. Unlike fossil fuels, renewable energy is clean and sustainable. Switching to solar panels, wind turbines, and hydroelectric power can significantly reduce our carbon footprint.",
+    "image": "image8.jpg"
+  },
+  {
+    "title": "9. Biodiversity and Wildlife Protection",
+    "content": "Biodiversity refers to the variety of life on Earth, including plants, animals, and microorganisms. Wildlife protection is crucial for maintaining ecosystem balance. Habitat destruction, poaching, and pollution are major threats. Conservation programs, protected areas, and responsible tourism help protect endangered species and ecosystems.",
+    "image": "image9.jpg"
+  },
+  {
+    "title": "10. How You Can Help",
+    "content": "Every person can contribute to environmental protection. Start by reducing plastic use, conserving water and energy, planting trees, and spreading awareness. Small actions like recycling, using public transport, and supporting eco-friendly products make a big difference. Together, we can create a more sustainable future.",
+    "image": "image10.jpg"
+  }
+]

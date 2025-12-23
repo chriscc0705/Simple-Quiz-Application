@@ -1,0 +1,96 @@
+{
+  "multipleChoice": [
+    {
+      "question": "What is the main cause of global warming?",
+      "options": ["Deforestation", "Greenhouse gases", "Ozone layer", "Acid rain"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a renewable energy source?",
+      "options": ["Coal", "Natural Gas", "Wind", "Oil"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which gas is most responsible for the greenhouse effect?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the process of planting trees to restore a forest called?",
+      "options": ["Deforestation", "Afforestation", "Desertification", "Urbanization"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is NOT a fossil fuel?",
+      "options": ["Solar", "Coal", "Oil", "Natural Gas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the largest source of marine pollution?",
+      "options": ["Oil spills", "Plastic waste", "Sewage", "Agricultural runoff"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following helps reduce water pollution?",
+      "options": ["Dumping waste in rivers", "Using less plastic", "Overfishing", "Burning fossil fuels"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which country emits the most carbon dioxide?",
+      "options": ["India", "USA", "China", "Russia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does 'biodiversity' mean?",
+      "options": ["Variety of life", "Amount of rainfall", "Number of trees", "Air quality"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is a consequence of deforestation?",
+      "options": ["Increased biodiversity", "Soil erosion", "Cleaner air", "More rainfall"],
+      "correctIndex": 1
+    }
+  ],
+  "trueFalse": [
+    {
+      "question": "Solar energy is a non-renewable resource.",
+      "answer": false
+    },
+    {
+      "question": "Plastic can take hundreds of years to decompose.",
+      "answer": true
+    },
+    {
+      "question": "Composting helps reduce landfill waste.",
+      "answer": true
+    },
+    {
+      "question": "The ozone layer protects us from harmful UV rays.",
+      "answer": true
+    },
+    {
+      "question": "Overfishing has no impact on marine ecosystems.",
+      "answer": false
+    },
+    {
+      "question": "Turning off lights when not in use saves energy.",
+      "answer": true
+    },
+    {
+      "question": "Air pollution can cause respiratory problems.",
+      "answer": true
+    },
+    {
+      "question": "Deforestation increases the amount of carbon dioxide in the atmosphere.",
+      "answer": true
+    },
+    {
+      "question": "Recycling paper helps save trees.",
+      "answer": true
+    },
+    {
+      "question": "Climate change only affects polar bears.",
+      "answer": false
+    }
+  ]
+}
